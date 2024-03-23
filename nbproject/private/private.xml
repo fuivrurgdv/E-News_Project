@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/model/Categories.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/managerArticles.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/dal/CategoryDAO.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/login.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/model/Articles.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/manageComment.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/ManagerArticlesServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/model/Roles.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/NewsDetailServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/AddNewArticlesServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/articlesDetail.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/addNewArticles.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/model/Authors.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/deleteArticleServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/ManagerCommentServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/model/Comment.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/CommentServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/editArticlesServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/dal/DBContext.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/index.html</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/ListComment.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/controller/AllNewsServlet.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/home.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/dal/AuthorsDAO.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/dal/CommentDAO.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/src/java/dal/ArticlesDAO.java</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/register.jsp</file>
+            <file>file:/C:/FU/PRJ/PRJ_SP24_HE172538/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
